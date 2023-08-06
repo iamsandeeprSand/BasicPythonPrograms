@@ -1,4 +1,4 @@
-#Rupees Calculation
+#To return the input amount in the least possible number of Indian currency notes and coins in Python
 a=int(input("Enter value  for a "))
 b=a//500 #500
 c=a%500
